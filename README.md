@@ -42,7 +42,7 @@ Upon clicking the link below it takes you to the landing page where it has butto
 
 HOW TO RUN THE WEBSITE:
 FOLLOWING IS THE LINK THAT WILL DIRECT YOU TO THE WEBSITE:
-https://bibs24.github.io/web-o-code/
+
 
 
 THANK YOU! <3
